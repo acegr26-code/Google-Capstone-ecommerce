@@ -10,4 +10,4 @@ Google Data Analytics Capstone-Ecommerce Customer Buying Behavior Analysis
 - **Name:** George Robles
 - **Certificate:** Google Data Analytics Professional Certificate
 - **Completed:** April 2026
-- **LinkedIn:** [Add your LinkedIn link here]
+- **LinkedIn:** www.linkedin.com/in/george-robles-65387b407
